@@ -1,0 +1,20 @@
+# Secret keys & tokens (Never upload!)
+secrets/
+*client_secret*.json
+token.json
+token.pickle
+.env
+
+# Python temp & virtual env files
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Generated output videos & audio
+out/
+*.mp4
+*.mp3
+
+*token*.pickle
+*token*.json
